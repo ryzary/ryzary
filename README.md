@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **ryzary/ryzary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 Hi, I'm Ryza!
+
+- 🧠 MLOps Engineer @ Woven by Toyota
+- 🎓 Tokyo Institute of Technology alum (M.Eng in Bioinformatics)
+- 🛠️ I work on MLOps and LLM
+- 🌏 Based in Tokyo 🇯🇵 | Fluent in EN/JP/ID
+
+🌐 Linkedin: [Ryza Rynazal]([https://ryzary.dev](https://www.linkedin.com/in/ryza-rynazal/))
