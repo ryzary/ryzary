@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🛠️ I work on MLOps and LLM
 - 🌏 Based in Tokyo 🇯🇵 | Fluent in EN/JP/ID
 
-🌐 Linkedin: [Ryza Rynazal]([https://ryzary.dev](https://www.linkedin.com/in/ryza-rynazal/))
+🌐 Linkedin: [Ryza Rynazal](https://www.linkedin.com/in/ryza-rynazal/)
